@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hello World!
 
+I'm Kamil from Cracow, and I like to learn new things. I had this 'crazy' idea for years - create own game so here I am. Learning python and sharing my code with the world.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kseternus)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kseternus/kseternus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
