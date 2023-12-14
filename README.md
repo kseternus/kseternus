@@ -6,7 +6,8 @@ I'm Kamil from Cracow, and I like to learn new things. I had this 'crazy' idea f
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kseternus)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![alt text]([http://url/to/img.png](https://i.kym-cdn.com/entries/icons/original/000/028/021/work.jpg))
+<img src="https://i.kym-cdn.com/entries/icons/original/000/028/021/work.jpg">
+
 <!--
 **kseternus/kseternus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
