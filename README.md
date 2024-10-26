@@ -1,12 +1,6 @@
 <h1 align="center">Hello World! I'm Kamil</h1>
 <h3 align="center">A passionate self-taught Python programmer.</h3>
 <h5 align="center">I'm from Cracow and my new passion has been programming in Python. As a former graphic designer and website creator, I find joy in programming because it allows me to combine my love of creating with the technical challenges and opportunities that coding offers. I grasp new concepts quickly, I like solving problems and looking for the best solutions - even the seemingly trivial and everyday ones.
-<br><br>
-Fun fact(?)
-<br>
-My biggest success was removing Linux from dual boot, breaking the Windows bootloader and spending 6 hours fixing the problem just to avoid reinstalling Windows.
-</h5>
-<h4 align="center">I did this a couple of times</h4>
 
 
 <br><br>
